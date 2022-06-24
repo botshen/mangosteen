@@ -1,4 +1,4 @@
-import {defineComponent, ref} from "vue";
+import { defineComponent, ref } from "vue";
 
 export const Bar = defineComponent({
     setup() {
